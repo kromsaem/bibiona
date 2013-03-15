@@ -1,0 +1,28 @@
+{
+    "main" : "app/index.html",
+    "name" : "bibiona",
+    "description" : "Модуль просмотра файлов выкроек сайта 'Кромсаем.Ру'",
+    "version" : "0.0.1",
+    "keywords" : ["выкройки", "одежда", "конструирование", "лекала"],
+    "window" : {
+        "title" : "Обработка выкройки",
+        "position" : "mouse",
+        "resizable" : true,
+        "width" : 1024,
+        "height" : 800
+    },
+    "maintainers":[{
+        "name": "ООО 'Альтернатива'",
+        "email": "support@kromsaem.ru",
+        "web": "http://www.kromsaem.ru"
+    }],
+    "bugs" : "http://bugs.kromsaem.ru",
+    "licenses": [{
+        "type": "GPLv2",
+        "url": "http://www.kromsaem.ru/licenses/gpl.html"
+    }],
+    "repositories": [{
+        "type": "git", 
+        "url": "https://github.com/kromsaem/bibiona.git"
+       }]
+}
